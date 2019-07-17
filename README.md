@@ -1,7 +1,7 @@
 # divine(everything is belongs to future)
 Divine is a new server side general purpose, high level programming language for those who are familiar with javascript and the extension would be .di
 
-The language is under construction but super exited to share some of the syntaxes.
+The language is under construction but super exited to share some of the syntaxes. This would be a intepreted language designed by c++ and may be in future this would be a compiled language.
 
 # Variables
 
