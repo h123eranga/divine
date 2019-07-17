@@ -1,4 +1,4 @@
-# divine
+# divine(everything is belongs to future)
 Divine is a new server side general purpose, high level programming language for those who are familiar with javascript and the extension would be .di
 
 The language is under cnstruction but super exited to share some of the syntax.
