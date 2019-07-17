@@ -3,6 +3,11 @@ Divine is a new server side general purpose, high level programming language for
 
 The language is under construction but super exited to share some of the syntaxes. This would be a intepreted language designed by c++ and may be in future this would be a compiled language.
 
+# Note
+```bash
+Looking for contributors to support in community
+```
+
 # Variables
 
 ```bash
