@@ -1,2 +1,55 @@
 # divine
 Divine is a new server side general purpose, high level programming language for those who are familiar with javascript and the extension would be .di
+
+The language is under cnstruction but super exited to share some of the syntax.
+
+# Variables
+
+```bash
+var variable_1 = 10;
+var variable_2 = "Hello";
+var variable_3 = 'D';
+var variable_4 = true;
+var variable_5 = 10.90;
+var variable_6 = Integer(10);
+var variable_7 = String("Hello");
+var variable_8 = Char('H');
+var variable_9 = Boolean(true);
+var variable_10 = Float(10.38);
+```
+
+# Functions
+
+```bash
+my_function_1(){
+  print("Hi, Welcome to Divine");
+}
+
+my_function_2(a){
+  print("Value of a is:"+a);
+}
+
+my_function_3(a: Integer()){
+  print("Value of a is:"+a);
+}
+```
+
+# Classes
+
+```bash
+Person(id, name, age, Address){
+  
+}
+```
+
+# Inheritance
+
+```bash
+Student(school_name, class_name, marks) extends Student{
+
+}
+
+Student(school_name, class_name, marks) extends Student(id,name,age){
+
+}
+```
